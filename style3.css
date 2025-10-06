@@ -475,14 +475,14 @@ html,body{
 
     .navbar {
         height: 5rem !important; 
-        padding: 0.5rem 1rem !important;
+        padding: 0 0.8rem !important;
         position: relative !important; 
     }
     
     
     .nav-logo {
         position: absolute !important; 
-        left: 43% !important;
+        left: 40% !important;
         top: 50% !important;
         transform: translate(-50%, -50%) !important;
         width: 15rem !important; 
@@ -490,8 +490,8 @@ html,body{
     }
     
     #btn{
-        padding: 0.4rem 0.8rem !important;
-        font-size: 0.8rem !important;
+        padding: 0.9rem 0.8rem !important;
+        font-size: 0.9rem !important;
     }
 
     
@@ -527,6 +527,7 @@ html,body{
     }
 
 }
+
 
 
 
